@@ -1,8 +1,7 @@
 # About me
 
 Hey!
-I'm Leonardo, a future computer scientist...
-I'm sixteen years old today, and my birthday is on March 29th.
+I'm 17 years old today.
 Now, use Svelte to build frontend, and Node.js at backend(with TypeScript, obviously).
 
 ## Stats
