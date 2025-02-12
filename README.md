@@ -2,7 +2,7 @@
 
 Hey!
 I'm 17 years old today.
-Now, use Svelte to build frontend, and Node.js at backend(with TypeScript, obviously).
+Now, use Svelte to build frontend, and Bun at backend(with TypeScript, obviously).
 
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoKopeski&show_icons=true&theme=radical)<br><br>
