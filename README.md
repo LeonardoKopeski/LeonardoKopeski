@@ -1,7 +1,7 @@
 # About me
 
 Hey!
-I'm 17 years old today.
+I'm 18 years old today.
 Now, use Svelte to build frontend, and Bun at backend(with TypeScript, obviously).
 
 ## Stats
@@ -9,6 +9,6 @@ Now, use Svelte to build frontend, and Bun at backend(with TypeScript, obviously
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoKopeski&langs_count=10&theme=radical)
 
 ## Contact me at:
-[leonardokop22@gmail.com](mailto:leonardokop22@gmail.com)
+[contato@leonardokopeski.com.br](mailto: contato@leonardokopeski.com.br)
 
 ~ Have a good day!
