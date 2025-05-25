@@ -9,6 +9,6 @@ Now, use Svelte to build frontend, and Bun at backend(with TypeScript, obviously
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoKopeski&langs_count=10&theme=radical)
 
 ## Contact me at:
-[contato@leonardokopeski.com.br](mailto: contato@leonardokopeski.com.br)
+[contato@leonardokopeski.com.br](mailto:contato@leonardokopeski.com.br)
 
 ~ Have a good day!
